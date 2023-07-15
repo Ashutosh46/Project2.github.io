@@ -1,6 +1,6 @@
 # Preprocessing of Data Science Salaries
 This is a README file which provides an overview of the project. The data used in the project is a modified version of the dataset extracted from kaggle [link](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries).     
-## Table of Contents
+## Table of Contents 
 - Aim
 - Project Description
 - Installation
