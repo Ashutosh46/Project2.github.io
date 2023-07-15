@@ -9,6 +9,15 @@ This is a README file which provides an overview of the project. The data used i
   
 Aim - The main aim of the project is to preprocess the data before it can be used for further applications.   
 
+Project Description -   
+1. Understanding the dataset.
+2. Removing unecessary features.
+3. Cardinality of features.
+4. Handling missing values.  
+5. Univariate data analysis.  
+6. Outlier detection.
+7. Bivariate data analysis.  
+   
 Installation -   
 This project requires Python and the following Python libraries installed:
 - NumPy
